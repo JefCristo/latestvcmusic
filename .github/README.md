@@ -60,6 +60,9 @@ For more information on the technologies that power the Yukki Music Bot, check o
 <a href="https://yukki.tech/deploy/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 > Want detailed explanation of Heroku Deployment? [Click Here](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/heroku)
+ ### Heroku Deploy
+  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jefcristo/latestvcmusic)
+  
 
 ## 🚀 Okteto Deployment
 
